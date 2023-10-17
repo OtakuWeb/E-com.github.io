@@ -1678,10 +1678,6 @@ form.search  button:hover{
 }
 
 @media screen and (min-width: 768px){
-
-    *{
-        overflow-x: hidden;
-    }
     
     .products .price .current{
         font-size: 1.25em;
